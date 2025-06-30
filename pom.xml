@@ -112,4 +112,5 @@
 			</plugin>
 		</plugins>
 	</build>
+	<finalName>docker-jenkins-integration-sample</finalName>
 </project>
