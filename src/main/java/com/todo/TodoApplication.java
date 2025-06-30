@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TodoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Application started");
+		System.out.println("This message is for Jenkins Pipeline evaluation");
 		SpringApplication.run(TodoApplication.class, args);
 	}
 
