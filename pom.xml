@@ -111,6 +111,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>docker-jenkins-integration-sample</finalName>
 	</build>
-	<finalName>docker-jenkins-integration-sample</finalName>
 </project>
